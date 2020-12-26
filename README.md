@@ -1,4 +1,3 @@
 # Astraalbum
 Album Website
-This website is created for a company selling albums. 
-The creators and programmers are Fargol Azimi, Parnoor Gill, Abdullahzeki Ilgun.
+Created using HTML 5, CSS, JS and PHP
